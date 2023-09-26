@@ -1,9 +1,9 @@
 <h1>Bem-vindo ao meu perfil!</h1> 
 
 <div display= "inline block">
-  <a href="https://github.com/lethicialacerda">
+  <a href="https://https://github.com/lethicialacerda?tab=repositories">
   <img height=200cm width=450cm src="https://github-readme-stats.vercel.app/api?username=lethicialacerda&hide=prs,issues,contribs,stars&theme=date_night#gh-light-mode-only&icons=true" />
-  <img height=190cm width=450cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethicialacerda&layout=compact&theme=date_night#gh-light-mode-only" />
+  <img height=200cm width=450cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethicialacerda&layout=compact&theme=date_night#gh-light-mode-only" />
 </div>
 
 
