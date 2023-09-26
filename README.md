@@ -3,7 +3,7 @@
 <div display= "inline block">
   <a href="https://https://github.com/lethicialacerda?tab=repositories">
   
-  <img width=500cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethicialacerda&layout=compact&theme=date_night#gh-light-mode-only" />
+  <img width=400cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethicialacerda&layout=compact&theme=date_night#gh-light-mode-only" />
 </div>
 
 
