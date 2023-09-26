@@ -2,11 +2,8 @@
 
 <div  style="display: inline_block">
   <a href="https://github.com/lethicialacerda">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lethicialacerda&hide=prs,issues,contribs,stars&theme=date_night#gh-light-mode-only&icons=true" />
-</a>
-<a href="https://github.com/lethicialacerda">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethicialacerda&layout=compact&theme=date_night#gh-light-mode-only" />
-</a>
+  <img height=180cm align="center" src="https://github-readme-stats.vercel.app/api?username=lethicialacerda&hide=prs,issues,contribs,stars&theme=date_night#gh-light-mode-only&icons=true" />
+  <img height=180cm align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethicialacerda&layout=compact&theme=date_night#gh-light-mode-only" />
 </div>
 
 
