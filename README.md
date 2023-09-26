@@ -1,7 +1,7 @@
-### Bem-vindo ao meu perfil!
+<h1>Bem-vindo ao meu perfil!</h1> 
 
 <div  style="display: inline_block">
-  <a href="https://github.com/lethicialacerda">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180cm align="center" src="https://github-readme-stats.vercel.app/api?username=lethicialacerda&hide=prs,issues,contribs,stars&theme=date_night#gh-light-mode-only&icons=true" />
   <img height=180cm align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethicialacerda&layout=compact&theme=date_night#gh-light-mode-only" />
 </div>
