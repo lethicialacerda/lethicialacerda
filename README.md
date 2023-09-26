@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180cm src="https://github-readme-stats.vercel.app/api?username=lethicialacerda&hide=prs,issues,contribs,stars&theme=date_night#gh-light-mode-only&icons=true" />
+  <img height=180cm width=550cm src="https://github-readme-stats.vercel.app/api?username=lethicialacerda&hide=prs,issues,contribs,stars&theme=date_night#gh-light-mode-only&icons=true" />
   <img height=180cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethicialacerda&layout=compact&theme=date_night#gh-light-mode-only" />
 </div>
 
