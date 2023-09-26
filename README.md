@@ -7,12 +7,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethicialacerda&layout=compact&theme=date_night#gh-light-mode-only" />
 </a>
 
-<a href="https://github.com/lethicialacerda">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lethicialacerda&hide=prs,issues,contribs,stars&theme=transparent#gh-dark-mode-only&icons=true" />
-</a>
-<a href="https://github.com/lethicialacerda">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethicialacerda&layout=compact&theme=transparent#gh-dark-mode-only" />
-</a>
+
 
 <div  style="display: inline_block"><br>
 <img align="center" Alt="Le-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
